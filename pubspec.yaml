@@ -35,8 +35,14 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  flutter_launcher_icons:
   flutter_lints: ^2.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/img/logo_def.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
 
 # The following section is specific to Flutter packages.
 flutter:
