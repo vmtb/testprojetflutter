@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816421293463",
+    "project_id": "formationflutter-deb8e",
+    "storage_bucket": "formationflutter-deb8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816421293463:android:1575e69921c867938d08d2",
+        "android_client_info": {
+          "package_name": "com.pirc.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816421293463-in0pih7lcgeda7ta7lvgifojr6imq4kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pirc.testproject",
+            "certificate_hash": "2cf67d91a1aed081462ffbf893baf5555862e199"
+          }
+        },
+        {
+          "client_id": "816421293463-0vflus3jv5k7dhicr4nu0uk5b0k6vurh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwv-iwABSZLQPdgzF_nIcd6O10tZqdtHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816421293463-0vflus3jv5k7dhicr4nu0uk5b0k6vurh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
